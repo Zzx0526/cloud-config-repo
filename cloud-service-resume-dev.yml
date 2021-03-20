@@ -1,0 +1,4 @@
+mysql:
+  url: dev-http://106.75.174.253:3306/lagou
+lagou:
+  message: hello lagou,100
